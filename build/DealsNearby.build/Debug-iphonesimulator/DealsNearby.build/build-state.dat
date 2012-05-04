@@ -1,0 +1,915 @@
+TDealsNearby
+v7
+r0
+t341884554.474492
+cCheck dependencies
+cProcessInfoPlistFile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/Info.plist DealsNearby-Info.plist
+cCompileXIB /Users/admin/development/dev/iphone/DealsNearby/MainWindow.xib
+cCompileXIB /Users/admin/development/dev/iphone/DealsNearby/RootViewController.xib
+cCompileXIB /Users/admin/development/dev/iphone/DealsNearby/RootViewTableCell.xib
+cCompileXIB /Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.xib
+cCpResource build/Debug-iphonesimulator/DealsNearby.app/74-location.png images/74-location.png
+cCpResource build/Debug-iphonesimulator/DealsNearby.app/20-gear2.png images/20-gear2.png
+cCompileXIB /Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.xib
+cCpResource build/Debug-iphonesimulator/DealsNearby.app/icon.png icon.png
+cProcessPCH /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch.gch DealsNearby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/main.o /Users/admin/development/dev/iphone/DealsNearby/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DealsNearbyAppDelegate.o /Users/admin/development/dev/iphone/DealsNearby/Classes/DealsNearbyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewController.o /Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SyncRequest.o /Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSObject+SBJSON.o /Users/admin/development/dev/iphone/DealsNearby/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSString+SBJSON.o /Users/admin/development/dev/iphone/DealsNearby/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJSON.o /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonBase.o /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonParser.o /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonWriter.o /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewTableCell.o /Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewTableCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DetailViewController.o /Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/AddressComponents.o /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/AddressComponents.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJGeocoder.o /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJReverseGeocoder.o /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJReverseGeocoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/HoverView.o /Users/admin/development/dev/iphone/DealsNearby/Classes/HoverView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SettingsViewController.o /Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby normal i386
+cGenerateDSYMFile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app.dSYM /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby
+cTouch /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D54DEB600000000000001D0
+t1297407670
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKPlacemark.h
+c000000004D5C9BDB00000000000005C2
+t1297914843
+s1474
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKReverseGeocoder.h
+c000000004D5C9BDB00000000000006F1
+t1297914843
+s1777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D5C9BEB000000000018CAB0
+t1297914859
+s1624752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54CEF80000000000001A58
+t1297403640
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/DealsNearbyAppDelegate.h
+c000000004E67672800000000000001D7
+t1315399464
+s471
+i<UIKit/UIKit.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/DealsNearbyAppDelegate.m
+c000000004E6767280000000000000AC7
+t1315399464
+s2759
+i"DealsNearbyAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.h
+c000000004E67D5A9000000000000014A
+t1315427753
+s330
+i<UIKit/UIKit.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.m
+c000000004E6FE6980000000000000740
+t1315956376
+s1856
+i"DetailViewController.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.xib
+c000000004E67D6980000000000004792
+t1315427992
+s18322
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/HoverView.h
+c000000004E696107000000000000019D
+t1315528967
+s413
+i<UIKit/UIKit.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/HoverView.m
+c000000004E6961150000000000000559
+t1315528981
+s1369
+i"HoverView.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.h
+c000000004E6978C9000000000000050E
+t1315535049
+s1294
+i<UIKit/UIKit.h>
+i"SyncRequest.h"
+i<MapKit/MKReverseGeocoder.h>
+i<MapKit/MKPlacemark.h>
+i"MJGeocodingServices.h"
+i"HoverView.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m
+c000000004E6A11260000000000002B87
+t1315574054
+s11143
+i"RootViewController.h"
+i<SystemConfiguration/SystemConfiguration.h>
+i"RootViewTableCell.h"
+i"DetailViewController.h"
+i"SettingsViewController.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewTableCell.h
+c000000004E67D0E600000000000002A6
+t1315426534
+s678
+i<UIKit/UIKit.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewTableCell.m
+c000000004E67D547000000000000092B
+t1315427655
+s2347
+i"RootViewTableCell.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.h
+c000000004E696CEC0000000000000114
+t1315532012
+s276
+i<UIKit/UIKit.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.m
+c000000004E696CE60000000000000611
+t1315532006
+s1553
+i"SettingsViewController.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.xib
+c000000004E6A12D10000000000005C2E
+t1315574481
+s23598
+
+N/Users/admin/development/dev/iphone/DealsNearby/DealsNearby_Prefix.pch
+c000000004E6767280000000000000148
+t1315399464
+s328
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/JSON.h
+c000000004C11056C00000000000008F9
+t1276183916
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/NSObject+SBJSON.h
+c000000004C11056C0000000000000A01
+t1276183916
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/NSObject+SBJSON.m
+c000000004C11056C000000000000089E
+t1276183916
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/NSString+SBJSON.h
+c000000004C11056C0000000000000916
+t1276183916
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/NSString+SBJSON.m
+c000000004C11056C000000000000087D
+t1276183916
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJSON.h
+c000000004C11056C0000000000000AED
+t1276183916
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJSON.m
+c000000004C11056C0000000000001ABC
+t1276183916
+s6844
+i"SBJSON.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonBase.h
+c000000004C11056C0000000000000B82
+t1276183916
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonBase.m
+c000000004C11056C0000000000000AC1
+t1276183916
+s2753
+i"SBJsonBase.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonParser.h
+c000000004C11056C0000000000000C0B
+t1276183916
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonParser.m
+c000000004C11056C00000000000036CF
+t1276183916
+s14031
+i"SBJsonParser.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonWriter.h
+c000000004C11056C0000000000001140
+t1276183916
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonWriter.m
+c000000004C11056C0000000000001E83
+t1276183916
+s7811
+i"SBJsonWriter.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/AddressComponents.h
+c000000004D6D3310000000000000096F
+t1299002128
+s2415
+i<CoreLocation/CoreLocation.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/AddressComponents.m
+c000000004D6D331000000000000009A0
+t1299002128
+s2464
+i"AddressComponents.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocoder.h
+c000000004D6D3310000000000000085C
+t1299002128
+s2140
+i<CoreLocation/CoreLocation.h>
+i"AddressComponents.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocoder.m
+c000000004E610E210000000000001400
+t1314983457
+s5120
+i"MJGeocoder.h"
+i"JSON.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocodingServices.h
+c000000004D6D33100000000000000673
+t1299002128
+s1651
+i"MJGeocoder.h"
+i"MJReverseGeocoder.h"
+i"AddressComponents.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJReverseGeocoder.h
+c000000004D6D331000000000000008BD
+t1299002128
+s2237
+i<CoreLocation/CoreLocation.h>
+i"AddressComponents.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJReverseGeocoder.m
+c000000004D6D3310000000000000115E
+t1299002128
+s4446
+i"MJReverseGeocoder.h"
+i"JSON.h"
+
+N/Users/admin/development/dev/iphone/DealsNearby/MainWindow.xib
+c000000004E696C490000000000009001
+t1315531849
+s36865
+
+N/Users/admin/development/dev/iphone/DealsNearby/RootViewController.xib
+c000000004E696A2700000000000070AE
+t1315531303
+s28846
+
+N/Users/admin/development/dev/iphone/DealsNearby/RootViewTableCell.xib
+c000000004E67D5070000000000005E3E
+t1315427591
+s24126
+
+N/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.h
+c000000004E6920AE00000000000005DC
+t1315512494
+s1500
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m
+c000000004EA7792E0000000000000BE7
+t1319598382
+s3047
+i"SyncRequest.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/AddressComponents.o
+t1315971135
+s22304
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DealsNearby.LinkFileList
+c000000004E6A11B100000000000009E4
+t1315574193
+s2532
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DealsNearbyAppDelegate.o
+t1315971135
+s54120
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DetailViewController.o
+t1315971136
+s45444
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/HoverView.o
+t1315971136
+s43816
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJGeocoder.o
+t1315971136
+s20596
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJReverseGeocoder.o
+t1315971136
+s17380
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSObject+SBJSON.o
+t1315971135
+s9180
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSString+SBJSON.o
+t1315971135
+s9100
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewController.o
+t1315971135
+s89460
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewTableCell.o
+t1315971136
+s51972
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJSON.o
+t1315971135
+s20964
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonBase.o
+t1315971135
+s14096
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonParser.o
+t1315971136
+s36772
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonWriter.o
+t1315971135
+s25744
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SettingsViewController.o
+t1315971136
+s39680
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SyncRequest.o
+t1319598386
+s22584
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/main.o
+t1315971135
+s7196
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app
+t1319598387
+s442
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app.dSYM
+t1319598387
+s102
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/20-gear2.png
+t1315574193
+s3193
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/74-location.png
+t1315574193
+s3114
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby
+t1319598387
+s116864
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DetailViewController.nib
+t1315971134
+s1017
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/Info.plist
+t1315971134
+s603
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/MainWindow.nib
+t1315971134
+s2217
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/PkgInfo
+t1315971134
+s8
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/RootViewController.nib
+t1315971134
+s1971
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/RootViewTableCell.nib
+t1315971134
+s2278
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/SettingsViewController.nib
+t1315971134
+s1865
+
+N/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/icon.png
+t1315957500
+s9535
+
+N/Users/admin/development/dev/iphone/DealsNearby/icon.png
+c000000004E6FEAE1000000000000253F
+t1315957473
+s9535
+
+N/Users/admin/development/dev/iphone/DealsNearby/images/20-gear2.png
+c000000004CB88AA80000000000000C79
+t1287162536
+s3193
+
+N/Users/admin/development/dev/iphone/DealsNearby/images/74-location.png
+c000000004CB88ABA0000000000000C2A
+t1287162554
+s3114
+
+N/Users/admin/development/dev/iphone/DealsNearby/main.m
+c000000004E6767280000000000000165
+t1315399464
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch.gch
+t1315971135
+s15814064
+
+N/var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dzeuulgevlborvbjtxyjfheclcom/DealsNearby_Prefix.pch.gch
+t1315574194
+s15814064
+
+NDealsNearby-Info.plist
+c000000004E6A0A930000000000000389
+t1315572371
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341884554#341884554#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/AddressComponents.o /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/AddressComponents.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.910557
+e337663935.995196
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/AddressComponents.o
+x/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/AddressComponents.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/AddressComponents.m337663935#337663935#0(0"0(0#0#87"/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/AddressComponents.m8620271104#2139"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/AddressComponents.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/AddressComponents.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DealsNearbyAppDelegate.o /Users/admin/development/dev/iphone/DealsNearby/Classes/DealsNearbyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.776672
+e337663935.910247
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DealsNearbyAppDelegate.o
+x/Users/admin/development/dev/iphone/DealsNearby/Classes/DealsNearbyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/admin/development/dev/iphone/DealsNearby/Classes/DealsNearbyAppDelegate.m337663935#337663935#0(0"0(0#0#80"/Users/admin/development/dev/iphone/DealsNearby/Classes/DealsNearbyAppDelegate.m8636707904#2137"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/Classes/DealsNearbyAppDelegate.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DealsNearbyAppDelegate.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DetailViewController.o /Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.895694
+e337663936.015002
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DetailViewController.o
+x/Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.m337663935#337663936#0(0"0(0#0#78"/Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.m8630821600#2133"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/HoverView.o /Users/admin/development/dev/iphone/DealsNearby/Classes/HoverView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.959209
+e337663936.027604
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/HoverView.o
+x/Users/admin/development/dev/iphone/DealsNearby/Classes/HoverView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/admin/development/dev/iphone/DealsNearby/Classes/HoverView.m337663935#337663936#0(0"0(0#0#67"/Users/admin/development/dev/iphone/DealsNearby/Classes/HoverView.m8636695456#2111"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/Classes/HoverView.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/HoverView.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJGeocoder.o /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.913694
+e337663936.014361
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJGeocoder.o
+x/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocoder.m337663935#337663936#0(0"0(0#0#80"/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocoder.m8615780512#2125"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJGeocoder.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJGeocoder.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJReverseGeocoder.o /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJReverseGeocoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.914878
+e337663936.014039
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJReverseGeocoder.o
+x/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJReverseGeocoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJReverseGeocoder.m337663935#337663936#0(0"0(0#0#87"/Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJReverseGeocoder.m8608801792#2139"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/MJGeocodingServices/MJReverseGeocoder.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/MJReverseGeocoder.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSObject+SBJSON.o /Users/admin/development/dev/iphone/DealsNearby/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.779878
+e337663935.892732
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/admin/development/dev/iphone/DealsNearby/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/admin/development/dev/iphone/DealsNearby/JSON/NSObject+SBJSON.m337663935#337663935#0(0"0(0#0#70"/Users/admin/development/dev/iphone/DealsNearby/JSON/NSObject+SBJSON.m8635719584#2120"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/JSON/NSObject+SBJSON.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSString+SBJSON.o /Users/admin/development/dev/iphone/DealsNearby/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.781264
+e337663935.892941
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/admin/development/dev/iphone/DealsNearby/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/admin/development/dev/iphone/DealsNearby/JSON/NSString+SBJSON.m337663935#337663935#0(0"0(0#0#70"/Users/admin/development/dev/iphone/DealsNearby/JSON/NSString+SBJSON.m8635590784#2120"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/JSON/NSString+SBJSON.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewController.o /Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.777862
+e337663935.958908
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewController.o
+x/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: In function '-[RootViewController locationManager:didUpdateToLocation:fromLocation:]':
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:69: warning: 'RootViewController' may not respond to '-isDataSourceAvailable'
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:69: warning: (Messages without a matching method signature
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:69: warning: will be assumed to return 'id' and accept
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:69: warning: '...' as arguments.)
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: In function '-[RootViewController settingsButtonClicked:]':
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:111: warning: 'RootViewController' may not respond to '-showShowSettingsView'
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:214: warning: incompatible Objective-C types initializing 'struct UITableViewCell *', expected 'struct RootViewTableCell *'
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:331: warning: 'DetailViewController' may not respond to '-loadUrl:'
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: At top level:
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: incomplete implementation of class 'RootViewController'
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: method definition for '-geocoder:didFailWithError:' not found
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: class 'RootViewController' does not fully implement the 'MJGeocoderDelegate' protocol
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: incomplete implementation of class 'RootViewController'
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: method definition for '-reverseGeocoder:didFailWithError:' not found
+o/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: class 'RootViewController' does not fully implement the 'MKReverseGeocoderDelegate' protocol
+lSLF07#2@84"Compile /Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337663935#337663935#0(2696"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: In function '-[RootViewController locationManager:didUpdateToLocation:fromLocation:]':/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:69: warning: 'RootViewController' may not respond to '-isDataSourceAvailable'/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:69: warning: (Messages without a matching method signature/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:69: warning: will be assumed to return 'id' and accept/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:69: warning: '...' as arguments.)/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: In function '-[RootViewController settingsButtonClicked:]':/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:111: warning: 'RootViewController' may not respond to '-showShowSettingsView'/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:214: warning: incompatible Objective-C types initializing 'struct UITableViewCell *', expected 'struct RootViewTableCell *'/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:331: warning: 'DetailViewController' may not respond to '-loadUrl:'/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m: At top level:/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: incomplete implementation of class 'RootViewController'/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: method definition for '-geocoder:didFailWithError:' not found/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: class 'RootViewController' does not fully implement the 'MJGeocoderDelegate' protocol/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: incomplete implementation of class 'RootViewController'/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: method definition for '-reverseGeocoder:didFailWithError:' not found/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m:359: warning: class 'RootViewController' does not fully implement the 'MKReverseGeocoderDelegate' protocol12(22@64"'RootViewController' may not respond to '-isDataSourceAvailable'337663935#165#155#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#69#0#69#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)337663935#320#136#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#69#0#69#0#0"0(22@63"'RootViewController' may not respond to '-showShowSettingsView'337663935#837#155#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#111#0#111#0#26"'*' may not respond to '*'0(22@109"Incompatible Objective-C types initializing 'struct UITableViewCell *', expected 'struct RootViewTableCell *'337663935#1140#201#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#214#0#214#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@53"'DetailViewController' may not respond to '-loadUrl:'337663935#1491#145#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#331#0#331#0#26"'*' may not respond to '*'0(23@13"At top level:337663935#1636#92#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#0#0#0#0#0"0(22@55"Incomplete implementation of class 'RootViewController'337663935#1728#147#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#359#0#359#0#38"incomplete implementation of class '*'0(22@61"Method definition for '-geocoder:didFailWithError:' not found337663935#1875#153#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#359#0#359#0#35"method definition for '*' not found0(22@85"Class 'RootViewController' does not fully implement the 'MJGeocoderDelegate' protocol337663935#2028#177#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#359#0#359#0#51"class '*' does not fully implement the '*' protocol0(22@55"Incomplete implementation of class 'RootViewController'337663935#2205#147#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#359#0#359#0#38"incomplete implementation of class '*'0(22@68"Method definition for '-reverseGeocoder:didFailWithError:' not found337663935#2352#160#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#359#0#359#0#35"method definition for '*' not found0(22@92"Class 'RootViewController' does not fully implement the 'MKReverseGeocoderDelegate' protocol337663935#2512#184#0(6@76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m337266854#359#0#359#0#51"class '*' does not fully implement the '*' protocol0(0#0#76"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m8636417728#2129"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewController.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewTableCell.o /Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewTableCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.894476
+e337663936.014753
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewTableCell.o
+x/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewTableCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewTableCell.m337663935#337663936#0(0"0(0#0#75"/Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewTableCell.m8636121248#2127"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/Classes/RootViewTableCell.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/RootViewTableCell.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJSON.o /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.782912
+e337663935.913582
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJSON.o
+x/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJSON.m337663935#337663935#0(0"0(0#0#61"/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJSON.m8632977152#2102"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJSON.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonBase.o /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.784370
+e337663935.893131
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonBase.o
+x/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonBase.m337663935#337663935#0(0"0(0#0#65"/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonBase.m8631542752#2110"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonBase.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonParser.o /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.891308
+e337663936.021174
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonParser.o
+x/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonParser.m337663935#337663936#0(0"0(0#0#67"/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonParser.m8634061440#2114"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonParser.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonWriter.o /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.893245
+e337663935.999728
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonWriter.m337663935#337663935#0(0"0(0#0#67"/Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonWriter.m8630922688#2114"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/JSON/SBJsonWriter.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SettingsViewController.o /Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.995342
+e337663936.057286
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SettingsViewController.o
+x/Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.m337663935#337663936#0(0"0(0#0#80"/Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.m8636250976#2137"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SettingsViewController.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SyncRequest.o /Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341291186.387727
+e341291186.704906
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SyncRequest.o
+x/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m: In function '-[SyncRequest getDeals:]':
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:35: warning: 'SyncRequest' may not respond to '+uniqueId'
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:35: warning: (Messages without a matching method signature
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:35: warning: will be assumed to return 'id' and accept
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:35: warning: '...' as arguments.)
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m: In function '-[SyncRequest connectionDidFinishLoading:]':
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:87: warning: 'NSString' may not respond to '-JSONValue'
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m: At top level:
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:91: warning: incomplete implementation of class 'SyncRequest'
+o/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:91: warning: method definition for '+request' not found
+lSLF07#2@69"Compile /Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m341291186#341291186#0(1115"/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m: In function '-[SyncRequest getDeals:]':/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:35: warning: 'SyncRequest' may not respond to '+uniqueId'/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:35: warning: (Messages without a matching method signature/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:35: warning: will be assumed to return 'id' and accept/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:35: warning: '...' as arguments.)/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m: In function '-[SyncRequest connectionDidFinishLoading:]':/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:87: warning: 'NSString' may not respond to '-JSONValue'/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m: At top level:/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:91: warning: incomplete implementation of class 'SyncRequest'/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m:91: warning: method definition for '+request' not found6(22@44"'SyncRequest' may not respond to '+uniqueId'341291186#103#120#0(6@61"/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m341291182#35#0#35#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)341291186#223#121#0(6@61"/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m341291182#35#0#35#0#0"0(22@42"'NSString' may not respond to '-JSONValue'341291186#678#118#0(6@61"/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m341291182#87#0#87#0#26"'*' may not respond to '*'0(23@13"At top level:341291186#796#77#0(6@61"/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m341291182#0#0#0#0#0"0(22@48"Incomplete implementation of class 'SyncRequest'341291186#873#124#0(6@61"/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m341291182#91#0#91#0#38"incomplete implementation of class '*'0(22@42"Method definition for '+request' not found341291186#997#118#0(6@61"/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m341291182#91#0#91#0#35"method definition for '*' not found0(0#0#61"/Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m8531335224102904832#2107"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/SyncRequest.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/SyncRequest.o0#
+
+CCompileC build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/main.o /Users/admin/development/dev/iphone/DealsNearby/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663935.775286
+e337663935.891065
+r1
+xCompileC
+xbuild/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/main.o
+x/Users/admin/development/dev/iphone/DealsNearby/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/admin/development/dev/iphone/DealsNearby/main.m337663935#337663935#0(0"0(0#0#54"/Users/admin/development/dev/iphone/DealsNearby/main.m8636962752#2093"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -include /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch -c /Users/admin/development/dev/iphone/DealsNearby/main.m -o /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.xib
+s337663934.421624
+e337663934.794375
+r1
+xCompileXIB
+x/Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib337663934#337663934#0(0"0(0#0#80"/Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.xib8631536928#629"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DetailViewController.nib /Users/admin/development/dev/iphone/DealsNearby/Classes/DetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.xib
+s337663934.422622
+e337663934.836375
+r1
+xCompileXIB
+x/Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.xib
+lSLF07#2@45"CompileXIB Classes/SettingsViewController.xib337663934#337663934#0(0"0(0#0#82"/Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.xib8631302336#633"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/SettingsViewController.nib /Users/admin/development/dev/iphone/DealsNearby/Classes/SettingsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/admin/development/dev/iphone/DealsNearby/MainWindow.xib
+s337663934.419995
+e337663934.851976
+r1
+xCompileXIB
+x/Users/admin/development/dev/iphone/DealsNearby/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib337663934#337663934#0(0"0(0#0#62"/Users/admin/development/dev/iphone/DealsNearby/MainWindow.xib8633127680#601"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/MainWindow.nib /Users/admin/development/dev/iphone/DealsNearby/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/admin/development/dev/iphone/DealsNearby/RootViewController.xib
+s337663934.420539
+e337663934.843745
+r1
+xCompileXIB
+x/Users/admin/development/dev/iphone/DealsNearby/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib337663934#337663934#0(0"0(0#0#70"/Users/admin/development/dev/iphone/DealsNearby/RootViewController.xib8632985248#617"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/RootViewController.nib /Users/admin/development/dev/iphone/DealsNearby/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/admin/development/dev/iphone/DealsNearby/RootViewTableCell.xib
+s337663934.421079
+e337663934.837279
+r1
+xCompileXIB
+x/Users/admin/development/dev/iphone/DealsNearby/RootViewTableCell.xib
+lSLF07#2@32"CompileXIB RootViewTableCell.xib337663934#337663934#0(0"0(0#0#69"/Users/admin/development/dev/iphone/DealsNearby/RootViewTableCell.xib8631684288#615"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/RootViewTableCell.nib /Users/admin/development/dev/iphone/DealsNearby/RootViewTableCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/DealsNearby.app/20-gear2.png images/20-gear2.png
+s337266993.686887
+e337266993.694572
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DealsNearby.app/20-gear2.png
+ximages/20-gear2.png
+lSLF07#2@24"Copy images/20-gear2.png337266993#337266993#0(0"0(0#0#67"/Users/admin/development/dev/iphone/DealsNearby/images/20-gear2.png8646196224#508"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/admin/development/dev/iphone/DealsNearby/images/20-gear2.png /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app0#
+
+CCpResource build/Debug-iphonesimulator/DealsNearby.app/74-location.png images/74-location.png
+s337266993.686122
+e337266993.691323
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DealsNearby.app/74-location.png
+ximages/74-location.png
+lSLF07#2@27"Copy images/74-location.png337266993#337266993#0(0"0(0#0#70"/Users/admin/development/dev/iphone/DealsNearby/images/74-location.png8646436512#511"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/admin/development/dev/iphone/DealsNearby/images/74-location.png /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app0#
+
+CCpResource build/Debug-iphonesimulator/DealsNearby.app/icon.png icon.png
+s337650300.396309
+e337650300.452777
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/DealsNearby.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png337650300#337650300#0(0"0(0#0#56"/Users/admin/development/dev/iphone/DealsNearby/icon.png27866473669001328#497"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/admin/development/dev/iphone/DealsNearby/icon.png /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app0#
+
+CGenerateDSYMFile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app.dSYM /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby
+s341291187.359846
+e341291187.486005
+r1
+xGenerateDSYMFile
+x/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app.dSYM
+x/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/DealsNearby.app.dSYM build/Debug-iphonesimulator/DealsNearby.app/DealsNearby341291187#341291187#0(0"0(0#0#103"/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby8608883232#422"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby -o /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app.dSYM0#
+
+CLd /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby normal i386
+s341291186.704982
+e341291187.359766
+r1
+xLd
+x/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby
+xnormal
+xi386
+lSLF07#2@108"Link /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby341291186#341291187#0(0"0(0#0#0"8608799264#1038"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -filelist /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/Objects-normal/i386/DealsNearby.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework SystemConfiguration -framework MapKit -o /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/DealsNearby0#
+
+CProcessInfoPlistFile /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/Info.plist DealsNearby-Info.plist
+s337663934.417144
+e337663934.419918
+r1
+xProcessInfoPlistFile
+x/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/Info.plist
+xDealsNearby-Info.plist
+lSLF07#2@30"Process DealsNearby-Info.plist337663934#337663934#0(0"0(0#0#70"/Users/admin/development/dev/iphone/DealsNearby/DealsNearby-Info.plist8633728928#518"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DealsNearby-Info.plist -genpkginfo /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app/Info.plist0#
+
+CProcessPCH /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch.gch DealsNearby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s337663934.852086
+e337663935.775130
+r1
+xProcessPCH
+x/var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch.gch
+xDealsNearby_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile DealsNearby_Prefix.pch337663934#337663935#0(0"0(0#0#70"/Users/admin/development/dev/iphone/DealsNearby/DealsNearby_Prefix.pch8635569600#1972"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -c /Users/admin/development/dev/iphone/DealsNearby/DealsNearby_Prefix.pch -o /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dyjjpnbozmxzjxdbpqkgzrlybfiq/DealsNearby_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dzeuulgevlborvbjtxyjfheclcom/DealsNearby_Prefix.pch.gch DealsNearby_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s337266994.127046
+e337266994.751838
+r1
+xProcessPCH
+x/var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dzeuulgevlborvbjtxyjfheclcom/DealsNearby_Prefix.pch.gch
+xDealsNearby_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile DealsNearby_Prefix.pch337266994#337266994#0(0"0(0#0#70"/Users/admin/development/dev/iphone/DealsNearby/DealsNearby_Prefix.pch8626853088#1972"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-generated-files.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-own-target-headers.hmap -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-all-target-headers.hmap -iquote /Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DealsNearby-project-headers.hmap -F/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator -I/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/include -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources/i386 -I/Users/admin/development/dev/iphone/DealsNearby/build/DealsNearby.build/Debug-iphonesimulator/DealsNearby.build/DerivedSources -c /Users/admin/development/dev/iphone/DealsNearby/DealsNearby_Prefix.pch -o /var/folders/Nx/NxJgc50HGde0ADPsmvbTFU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DealsNearby_Prefix-dzeuulgevlborvbjtxyjfheclcom/DealsNearby_Prefix.pch.gch0#
+
+CTouch /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app
+s341291187.486075
+e341291187.521251
+r1
+xTouch
+x/Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app
+lSLF07#2@97"Touch /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app341291187#341291187#0(0"0(0#0#0"8607535744#300"    cd /Users/admin/development/dev/iphone/DealsNearby    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/admin/development/dev/iphone/DealsNearby/build/Debug-iphonesimulator/DealsNearby.app0#
+
